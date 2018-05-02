@@ -18,8 +18,6 @@ The following **optional** features are implemented:
 * [ ] Navigation, contact, sitemap, privacy policy, term of use, etc in footer
 * [ ] Banner with background video
 
-The following **additional** features are implemented:
-
 ## Notes
 
 Describe any challenges encountered while building the app.
